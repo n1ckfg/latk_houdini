@@ -1,4 +1,4 @@
-# latk_houdinig
+# latk_houdini
 <img src="./example/logo.png"><br>
 Read and write Latk files in Houdini. Last tested in TK.
 
